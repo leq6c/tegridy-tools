@@ -11,5 +11,3 @@ __author__ = 'Aleksandr Sigalov'
 __credits__ = 'Project Los Angeles / Tegridy Code 2021'
 
 
-from . import minGPT
-from . import TMIDI
