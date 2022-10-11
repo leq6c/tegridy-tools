@@ -5,4 +5,5 @@
 include *.*
 recursive-include examples *.*
 recursive-include tegridy-tools *.*
+recursive-include tegridy-tools/Perceiver-AR *.*
 recursive-include tegridy-raspberry *.*
