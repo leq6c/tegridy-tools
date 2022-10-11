@@ -4,5 +4,5 @@
 
 include *.*
 recursive-include examples *.*
-recursive-include tegridy_tools *.*
-recursive-include tegridy_raspberry *.*
+recursive-include tegridy-tools *.*
+recursive-include tegridy-raspberry *.*

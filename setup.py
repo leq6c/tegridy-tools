@@ -10,6 +10,7 @@ setup(
     author_email='asigalov61@hotmail.com',
     license='Apache 2.0',
     packages=['tegridy_tools'],
+    package_dir={'tegridy_tools': 'tegridy-tools'},
     install_requires=['tqdm',
                       'numpy',                     
                       ],
